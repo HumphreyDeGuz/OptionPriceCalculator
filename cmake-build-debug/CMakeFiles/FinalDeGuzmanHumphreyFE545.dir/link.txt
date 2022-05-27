@@ -1,0 +1,3 @@
+"D:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\FinalDeGuzmanHumphreyFE545.dir/objects.a
+D:\Coding\MinGW\bin\ar.exe cr CMakeFiles\FinalDeGuzmanHumphreyFE545.dir/objects.a @CMakeFiles\FinalDeGuzmanHumphreyFE545.dir\objects1.rsp
+D:\Coding\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\FinalDeGuzmanHumphreyFE545.dir/objects.a -Wl,--no-whole-archive  -o FinalDeGuzmanHumphreyFE545.exe -Wl,--out-implib,libFinalDeGuzmanHumphreyFE545.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\FinalDeGuzmanHumphreyFE545.dir\linklibs.rsp
